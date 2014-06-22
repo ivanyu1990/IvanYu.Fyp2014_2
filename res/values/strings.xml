@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name2">iEditio</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Main</string>
+    <string name="title_section2">Hot Books</string>
+    <string name="title_section3">Districts</string>
+    <string name="latitude_longitude">%1$.8f, %2$.8f</string>
+        <string-array name="drawer_array">
+        <item>Main Menu</item>
+        <item>User Profile</item>
+        <item>Purchase Record</item>
+        <item>Selling Record</item>
+        <item>Favourite Books</item>
+        <item>Comments Records</item>
+        <item>Logout</item>
+        <item>Exit</item>
+    </string-array>
+    <string-array name="items">
+    	<item>Islands</item>
+    	<item>Kwai Tsing</item>
+    	<item>North</item>
+    	<item>Sai Kung</item>
+    	<item>Sha Tin</item>
+    	<item>Tai Po</item>
+    	<item>Tsuen Wan</item>
+    	<item>Tuen Mun</item>
+    	<item>Yuen Long</item>
+    	<item>Sham Shui Po</item>
+    	<item>Kowloon City</item>
+    	<item>Kwun Tong</item>
+    	<item>Wong Tai Sin</item>
+    	<item>Yau Tsim Mong</item>
+    	<item>Central and Western</item>
+    	<item>Eastern</item>
+    	<item>Southern</item>
+    	<item>Wan Chai</item>
+    </string-array>
+    <string-array name="spinner_array">
+        <item>Hong Kong Island</item>
+        <item>Kowloon</item>
+        <item>New Territories</item>
+    </string-array>
+    <string name="iBook">iBook
+  </string>
+
+</resources>

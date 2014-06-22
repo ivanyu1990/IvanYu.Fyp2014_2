@@ -1,0 +1,301 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:weightSum="2" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:weightSum="1" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="2" >
+
+            <LinearLayout
+                android:id="@+id/left"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:weightSum="10" >
+
+                <Button
+                    android:id="@+id/button_d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:text="asdasd"
+                    android:textColor="@android:color/white" />
+		 
+
+                <Button
+                    android:id="@+id/button_d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+		 
+		 
+
+                <Button
+                    android:id="@+id/button_d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_d"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/right"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:weightSum="10" >
+
+                <Button
+                    android:id="@+id/button_e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+		 
+
+                <Button
+                    android:id="@+id/button_e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+		 
+		 
+
+                <Button
+                    android:id="@+id/button_e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/button_e"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:layout_weight="1"
+                    android:onClick="settingPage"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
